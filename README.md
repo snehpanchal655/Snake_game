@@ -1,7 +1,7 @@
 # Snake_game
+Red color is the snake and green color is the food.
 
-  Red color is the snake and green color is the food.
-  1)Python
+1)Python. 
   2)Pygame
 
 # Start_game
